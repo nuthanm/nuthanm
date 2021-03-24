@@ -4,7 +4,7 @@
 - 👀 I’m interested in learning new technologies to upgrade myself and adapt with these without any struggle. Also intrested to learn tips and tricks which helps me a lot to finish it fast through out the day.
 - 🌱 I’m currently learning Azure which is one of competitor in cloud computing.
 - 💞️ I’m looking to collaborate on open source projects near future.
-- 📫 How to reach me - @itsme4temp@gmail.com
+- 📫 How to reach me - inbox.nuthan@gmail.com
 
 <!---
 nuthanm/nuthanm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
