@@ -1,6 +1,6 @@
 ## [__About me__](https://nuthanm.my.canva.site/)
 
-- 👋 Hi, I’m nuthan murarysetty, I started my IT career since Dec 2011 using Microsoft stack and glad cont. working with updated tech stack. Also got an oppurtunity working with thrid party libraries like web 2.0, Google Serivices, Telerik and even many more.
+- 👋 Hi, I’m nuthan murarysetty, I started my IT career since Dec 2013 using Microsoft stack and glad cont. working with updated tech stack. Also got an oppurtunity working with thrid party libraries like web 2.0, Google Serivices, Telerik and even many more.
 - 👀 I’m interested in learning new technologies to upgrade myself and adapt with these without any struggle. Also intrested to learn tips and tricks which helps me a lot to finish it fast through out the day.
 - 🌱 I’m currently working with Azure which is one of competitor in cloud computing.
 - 💞️ I’m looking to collaborate on open source projects near future.
